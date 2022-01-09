@@ -1,7 +1,7 @@
 ##Olá !! Eu sou Salatiel dos Santos
 
 Sou estudante de Deselvolvimento Web e Cursando Analise de Desenvolvimento de Sistemas,
-Atualmente estou estudando TyperScript e Framework Angular,
+Atualmente estou estudando TypeScript e Framework Angular,
 desenvolvo bem com as linguagens de marcação HTML, CSS e Linguagem de Programação JavaScript,
 Criei esse Perfil para Publicar meus Projetos em participação de cursos, que me ajudaram a obter experiências e
 proporcionaram a desenvolver habilidades no Desenvolvimento Web.
